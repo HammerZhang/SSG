@@ -1,0 +1,4 @@
+
+
+ADD_SUBDIRECTORY(Video2Image video2Image)
+ADD_SUBDIRECTORY(VCDemo vcdemo)
